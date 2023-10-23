@@ -7,8 +7,6 @@ public class Main {
 		
 		System.out.println(subText);
 		
-		int vade = 12;
-		
 		double dolarYesterday = 18.14;
 		double dolarToday = 18.10;
 		
